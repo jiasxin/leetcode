@@ -1,7 +1,15 @@
 package com.jiasxin.nowcoder.type.array.no00001;
 
+/**
+ * 菲波那切数列
+ */
 public class Solution {
 
+    /**
+     * 菲波那切数列
+     * @param n
+     * @return
+     */
     public int Fibonacci(int n) {
         if (n <= 1) {
             return n;
