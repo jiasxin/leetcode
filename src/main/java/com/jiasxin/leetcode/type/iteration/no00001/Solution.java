@@ -1,4 +1,4 @@
-package com.jiasxin.nowcoder.type.array.no00001;
+package com.jiasxin.leetcode.type.iteration.no00001;
 
 /**
  * 菲波那切数列

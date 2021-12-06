@@ -1,4 +1,4 @@
-package com.jiasxin.topic.no00001;
+package com.jiasxin.leetcode.topic.no00001;
 
 
 import cn.hutool.json.JSONUtil;
